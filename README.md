@@ -1,4 +1,4 @@
-# Dropbox Sign PHP Webhook Server Example
+# Dropbox Sign PHP Webhook Server App
 This basic app listens for and validates Dropbox Sign webhooks.
 
 > [!NOTE]
